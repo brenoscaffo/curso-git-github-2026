@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 meu deus! que doideira esse curso! ta bem legal
+=======
+Meu deus que doideira esse curso! ta bem legal
+>>>>>>> breno
